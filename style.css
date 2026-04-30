@@ -33,7 +33,7 @@ a{
     border: 2px solid rgb(47, 255, 99);
 }
 .personal_bio .bio_summary p{
-    font-size: clamp(12px, 2vw, 2em);
+    font-size: clamp(12px, 1.5vw, 2em);
 }
 .personal_bio .bio_summary h2{
     text-align: center;
