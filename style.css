@@ -19,7 +19,7 @@ a{
 }
 .personal_bio{
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 /* For smaller devices */
