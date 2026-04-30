@@ -24,6 +24,9 @@ align-items: center;
 justify-content: center;
 
 }
+.profile {
+text-align: center;
+}
 
 /* For smaller devices */
 .profile img{
