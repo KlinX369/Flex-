@@ -27,8 +27,8 @@ a{
     aspect-ratio: 16/9;
     height: clamp(150px, 100vw, 200px);
     width: clamp(150px, 80vw, 200px);
-    margin: 10px;
-    border-radius: 50%;
+    margin-top: 20px
+   border-radius: 50%;
     padding: 5px;
     border: 2px solid rgb(47, 255, 99);
 }
@@ -45,7 +45,7 @@ a{
     min-height: 40vh;
 }
 .projects_gallery img{
-    border-radius: 10px;
+    border-radius:15px   
     margin: auto;
     margin-left: clamp(5px, 0.5vw, 1.25rem);
     align-items: center;
