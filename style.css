@@ -26,14 +26,14 @@ a{
 .profile img{
     aspect-ratio: 16/9;
     height: clamp(150px, 100vw, 200px);
-    width: clamp(150px, 100vw, 200px);
-    margin: 20px;
+    width: clamp(150px, 80vw, 200px);
+    margin: 10px;
     border-radius: 50%;
     padding: 5px;
     border: 2px solid rgb(47, 255, 99);
 }
 .personal_bio .bio_summary p{
-    font-size: clamp(12px, 3vw, 2em);
+    font-size: clamp(12px, 2vw, 2em);
 }
 .personal_bio .bio_summary h2{
     text-align: center;
