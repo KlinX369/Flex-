@@ -25,12 +25,11 @@ a{
 /* For smaller devices */
 .profile img{
     aspect-ratio: 16/9;
-    height: clamp(150px, 110vw, 200px);
-    width: clamp(150px, 110vw, 200px);
+    height: 200px;
+    width: 200px;
     margin: 20px;
    border-radius: 50%;
-align-items: center;
-text-align: center;
+   align-items: center;
     padding: 5px;
     border: 2px solid rgb(47, 255, 99);
 }
