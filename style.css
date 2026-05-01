@@ -5,7 +5,7 @@
 }
 body{
     font-family: 'Times New Roman', Times, serif;
-    line-height: 1.5;
+    line-height: 1.6;
 }
 html{
     min-height: 100dvh;
@@ -42,6 +42,7 @@ text-align: center;
 }
 .personal_bio .bio_summary p{
     font-size: clamp(12px, 1.5vw, 2em);
+    margin: 3px;
 }
 .personal_bio .bio_summary h2{
     text-align: center;
