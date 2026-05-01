@@ -42,7 +42,7 @@ text-align: center;
 }
 .personal_bio .bio_summary p{
     font-size: clamp(12px, 1.5vw, 2em);
-    margin: 3px;
+    padding: 10px;
 }
 .personal_bio .bio_summary h2{
     text-align: center;
